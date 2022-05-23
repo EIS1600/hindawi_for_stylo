@@ -17,3 +17,9 @@
     - `Book` must be replaced with one or two words from the title of the book
     - `HindawiXXXXXXXX` remains as is.
 - run the python script again to get more texts.
+
+# Original Books
+
+- These files are hardly good for conventional reading; you can find originals on <https://www.hindawi.org/> in either EPUB or PDF format;
+- the fastest way to get to a specific book is to use te following link:
+    - `https://www.hindawi.org/books/` + the numeric ID of the book (8 digits, like `39429258`); these IDs can be found in the metadata file under `01#BookID###::::`
